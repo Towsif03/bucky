@@ -10,7 +10,20 @@ h3{
 }
 p{font-size: 18px;}
 
-section{display: flex;}
-div{width: 50%;
+.bla{display: flex;
+       }
+.land{width: 50%;
      padding: 3%}
-div img{width: 94%;}
+.kallu{color: black;
+       width: 80%;
+        padding: 5%;}
+.bla{display: flex;
+      margin-top: 100px;
+       margin-left: 30px;}
+
+h2{font-size: 50px;}
+.kj{font-size: 30px;}
+.third{display:flex}
+.fourth{display: flex;}
+.ko{display: flex;}
+
